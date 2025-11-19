@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Installer logs
+pip-log.txt
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Outputs OCR (no trackear archivos generados por el script)
+imagen/*_OCR.txt
